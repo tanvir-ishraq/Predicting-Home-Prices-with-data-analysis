@@ -19,13 +19,15 @@ dimensionality reduction
 
 one hot encoding
 
+algorithms: |
 regression
 
 decision tree
 
 support vector machine
 
-random forest
+random forest |
+
 
 
 cross validation
