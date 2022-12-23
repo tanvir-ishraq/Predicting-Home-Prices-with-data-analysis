@@ -33,5 +33,3 @@ random forest |
 cross validation
 
 saving model with pickle file 
-
-tools used: package names for later
