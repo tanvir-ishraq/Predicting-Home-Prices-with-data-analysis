@@ -20,7 +20,7 @@ dimensionality reduction
 one hot encoding
 
 
-algorithms: |
+* algorithms: 
 
 regression
 
@@ -28,7 +28,7 @@ decision tree
 
 support vector machine
 
-random forest |
+random forest 
 
 
 
