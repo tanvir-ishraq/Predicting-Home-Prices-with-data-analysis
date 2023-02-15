@@ -5,33 +5,29 @@ data analysis and data visulaization
 find insights
 apply data preprocessing for machine learning model training
 
-scatter plot
+* scatter plot
 
-outlier removal
+* outlier removal
 
-feature engineering
+* feature engineering
 
-data cleaning
+* data cleaning
 
-feature selection
+* feature selection
 
-dimensionality reduction
+* dimensionality reduction
 
-one hot encoding
+* one hot encoding
 
 
-* algorithms: 
-
-regression
-
-decision tree
-
-support vector machine
-
-random forest 
+algorithms: 
+* regression
+* decision tree
+* support vector machine
+* random forest 
 
 
 
-cross validation
+* cross validation
 
-saving model with pickle file 
+* saving model with pickle file 
