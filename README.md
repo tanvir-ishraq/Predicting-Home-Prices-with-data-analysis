@@ -20,14 +20,12 @@ apply data preprocessing for machine learning model training
 * one hot encoding
 
 
-algorithms: 
+Algorithms and training: 
 * regression
 * decision tree
 * support vector machine
 * random forest 
 
-
-
+Finalizing:
 * cross validation
-
 * saving model with pickle file 
